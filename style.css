@@ -1,6 +1,7 @@
 body{
 	/*color: #1abc9c;*/
-	color: grey;
+	color: black;
+	background-color: silver;
 }
 h1{
 	text-align: center;
